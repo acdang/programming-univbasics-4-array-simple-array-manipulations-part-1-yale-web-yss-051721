@@ -9,6 +9,8 @@ end
 using_pop
   takes in argument of an array and uses the pop method to remove the last element from the array and return that element (FAILED - 4)
   decreases the length of the array by 1 (FAILED - 5)
+define using_pop(array)
+
 
 pop_with_args
   takes in an argument of an array and uses the pop method with an argument of 2 to remove the last two array items and return them (FAILED - 6)
