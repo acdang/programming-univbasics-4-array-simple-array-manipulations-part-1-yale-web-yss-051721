@@ -7,6 +7,7 @@ using_unshift
   increases the length of the array (FAILED - 3)
 def using_unshift(array, string)
   array.unshift(string)
+end
 
 using_pop
   takes in argument of an array and uses the pop method to remove the last element from the array and return that element (FAILED - 4)
