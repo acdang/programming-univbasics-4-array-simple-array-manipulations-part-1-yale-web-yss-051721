@@ -2,9 +2,6 @@ def using_push(array, string)
   array.push(string)
 end
 
-using_unshift
-  takes in two arguments, an array and a string and adds that string to the front of the array using the unshift method (FAILED - 2)
-  increases the length of the array (FAILED - 3)
 def using_unshift(array, string)
   array.unshift(string)
 end
