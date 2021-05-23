@@ -6,9 +6,6 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-using_pop
-  takes in argument of an array and uses the pop method to remove the last element from the array and return that element (FAILED - 4)
-  decreases the length of the array by 1 (FAILED - 5)
 def using_pop(array)
   array.pop
 end
